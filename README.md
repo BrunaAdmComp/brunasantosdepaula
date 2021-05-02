@@ -1,4 +1,4 @@
 # brunasantosdepaula
-Dados do meu repositório do GitHub.
+As Linguagens de Programação que estão presentes neste repositório.
 
-![![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunaAdmComp&layout=compact)]
+Top Langs (https://github-readme-stats.vercel.app/api/top-langs/?username=BrunaAdmComp&layout=compact)
