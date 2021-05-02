@@ -4,7 +4,7 @@
 - 🌱Eu estou aprendendo a promogração em linguagem mobile e web para mudar de área de atuação em Tecnologia da Informação.
      I'm learning programming language in mobile and web to change my area of expertise in Information Technology.
      
-     src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/bruna-santos-de-paula-59991614/) 
+     [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/bruna-santos-de-paula-59991614/) 
  
 As Linguagens de Programação que estão presentes neste repositório.
 
